@@ -1,0 +1,40 @@
+https://wanago.io/2020/05/11/nestjs-api-controllers-routing-module/
+
+
+opinionated - самоуверенный
+forces - силы
+somewhat - в некотором роде
+follow - следить, следовать
+extent - степень
+might seem (маитс) - может показаться
+consistency - следовать
+under hood - под капотом
+familiar - знакомый
+will come in handy - пригодитс
+comprehensive - всесторонний 
+benefit - польза
+incoming - входящий
+above - над
+refer - ссылаться
+capture - захватывать
+extract - извлекать
+Otherwise(азэваис) - в противном случае
+Since - поскольку
+By doing so - поступая таким образом
+explore - иследовать
+expects - ожидает
+readability - удобочитаемость
+maintain - поддержать
+on the other hand - с другой стороны
+equip - оборудовать
+pure(пьюр) - чистый 
+quite(кваит) - довольно, вполне, очень
+quite a few - довольно много.
+resembles(рисээмблс) - напоминает
+manually - вручную
+upcoming - предстоящие
+directly - на прямую
+Unfortunately(анфортинатли) - к сожалению
+care - забота
+closely(клоусли) - внимательно
+belong - пренадлежать
