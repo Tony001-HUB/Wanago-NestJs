@@ -8,10 +8,8 @@ follow - следить, следовать
 extent - степень
 might seem (маитс) - может показаться
 consistency - следовать
-under hood - под капотом
 familiar - знакомый
-will come in handy - пригодитс
-comprehensive - всесторонний 
+will come in handy - пригодится
 benefit - польза
 incoming - входящий
 above - над
@@ -38,3 +36,20 @@ Unfortunately(анфортинатли) - к сожалению
 care - забота
 closely(клоусли) - внимательно
 belong - пренадлежать
+
+convenient(канвиниэнт) - удобный
+grasp - понять
+below - ниже
+straightforward(стрэйтфооорвард) - простой
+Crucial(крышал) - ключевой
+Hold - держать
+under hood - под капотом
+soon - скоро
+excellent(Экселент) - превосходно
+neat(нитс) - аккуратный
+uniquely(юникли) - уникальный
+identify(АЙдэнтифай)
+Although(олзэ) we might(маинт) - Хотя мы могли бы
+Approach(эпрээч) - подход
+explicitly - явно(не двухсмысленно)
+proper(пропэ) - правильный
